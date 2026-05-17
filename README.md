@@ -8,7 +8,7 @@ This is a bunch of resources for self-studying, although you'd have to have a st
 4. [Special Relativity](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) : Stanford - Special Relativity by Prof. Leonard Susskind
 5. [Intro to Quantum Mechanics](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013) : MIT 8.04 - Quantum Physics I, Spring 2013
 6. [Thermodynamics & Statistical Mechanics](https://oyc.yale.edu/physics/phys-202) : Yale - Fundamentals of Physics2 by Prof. Ramamurti Shankar
-7. [Advanced Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2007/fall) : Standford - Classical Mechanics by Prof. Leonard Susskind
+7. [Advanced Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2007/fall) : Stanford - Classical Mechanics by Prof. Leonard Susskind
 8. [Quantum Mechanics Playlist](https://www.youtube.com/playlist?list=PLaNkJORnlhZmMOE7cntq-biNCgxy203YJ) : Oxford - Quantum Mechanics by Prof. James Binney
    - [Quantum Mechanics Textbook PDF](https://www-thphys.physics.ox.ac.uk/people/JamesBinney/qb.pdf): Oxford - Quantum Mechanics by Prof. James Binney
 9. [Electrodynamics (Advanced E&M)](https://www.youtube.com/playlist?list=PLRXOxB3SJmi07vGox-fvOmfTqqgFV-JMS) : UNSW Physics - Electromagnetism
