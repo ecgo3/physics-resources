@@ -1,4 +1,5 @@
 # Physics Resources
+Physics Discord Server: https://discord.gg/physics
 This is a bunch of resources for self-studying, although you'd have to have a strong ability in single-variable calculus and multivariable calculus eventually
 1. [Physics 1](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/): MIT 8.01 - Classical Mechanics by Prof. Walter Lewin
 2. [Physics 2](https://ocw.mit.edu/courses/8-02t-electricity-and-magnetism-spring-2005/) : MIT 8.02 - Electricity & Magnetism by Prof. Walter Lewin
