@@ -1,5 +1,5 @@
-# physics-resources
-a bunch of resources for self-studying physics, although you'd have to have a strong ability in single-variable calculus, and multivariable calculus eventually
+# Physics Resources
+a bunch of resources for self-studying, although you'd have to have a strong ability in single-variable calculus, and multivariable calculus eventually
 
 1. [Physics 1](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/): MIT 8.01 - Classical Mechanics by Prof. Walter Lewin
 2. [Physics 2](https://ocw.mit.edu/courses/8-02t-electricity-and-magnetism-spring-2005/) : MIT 8.02 - Electricity & Magnetism by Prof. Walter Lewin
@@ -22,6 +22,6 @@ a bunch of resources for self-studying physics, although you'd have to have a st
     [String Theory Online Course](https://theoreticalminimum.com/courses/string-theory/2010/fall) : Stanford - String Theory & M-Theory by Leonard Susskind
 
 My personal favorite subject, particle physics :)
-[Particle Physics 1](https://theoreticalminimum.com/courses/particle-physics-1-basic-concepts/2009/fall)
-[Particle Physics 2](https://theoreticalminimum.com/courses/particle-physics-2-standard-model/2010/winter)
-[Particle Physics 3](https://theoreticalminimum.com/courses/particle-physics-3-supersymmetry-and-grand-unification/2010/spring)
+1. [Particle Physics 1](https://theoreticalminimum.com/courses/particle-physics-1-basic-concepts/2009/fall)
+2. [Particle Physics 2](https://theoreticalminimum.com/courses/particle-physics-2-standard-model/2010/winter)
+3. [Particle Physics 3](https://theoreticalminimum.com/courses/particle-physics-3-supersymmetry-and-grand-unification/2010/spring)
